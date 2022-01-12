@@ -3,4 +3,8 @@ TEST 2
 TEST 4clear
 TESTAJITH COMEPLETE 
 FINAL
+<<<<<<< Updated upstream
 staaa
+=======
+stash test
+>>>>>>> Stashed changes
