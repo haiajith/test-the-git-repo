@@ -1,0 +1,8 @@
+TEST1
+TEST2
+TEST3
+<<<<<<< Updated upstream
+TEST456
+=======
+TEST4
+>>>>>>> Stashed changes
